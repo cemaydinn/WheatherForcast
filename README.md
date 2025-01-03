@@ -1,8 +1,8 @@
 # WheatherForcast
 Malmö weather forecast error modeling with RNN
 
-![Alt text](images/MSE.png)
-![Alt text](images/TestPrediction.png)
-![Alt text](images/TrainPrediction.png)
-![Alt text](images/ValidPrediction.png)
-![Alt text](images/AllPredictions.png)
+![MSE](images/MSE.png)
+![Test Prediction](images/TestPrediction.png)
+![Train Prediction](images/TrainPrediction.png)
+![Validation Prediction](images/ValidPrediction.png)
+![All Prediction](images/AllPredictions.png)
