@@ -1,4 +1,4 @@
-# WheatherForcast
+# RNN WheatherForcast
 Malmö weather forecast error modeling with RNN
 
 ![MSE](WheatherForcast/images/MSE.PNG)
