@@ -5,8 +5,8 @@ Malmö weather forecast error modeling with RNN
 
 ![Test Prediction](images/TestPrediction.PNG)
 
-![Train Prediction](images/TrainPrediction.png)
+![Train Prediction](images/TrainPrediction.PNG)
 
-![Validation Prediction](images/ValidPrediction.png)
+![Validation Prediction](images/ValidPrediction.PNG)
 
-![All Prediction](images/AllPredictions.png)
+![All Prediction](images/AllPredictions.PNG)
